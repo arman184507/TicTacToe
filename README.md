@@ -57,18 +57,6 @@ http://localhost:3000
 
 ---
 
-## 📂 Project Structure
-
-```
-src/
-├── components/
-├── App.js
-├── App.css
-├── index.js
-└── index.css
-```
-
----
 
 ## 🎯 Game Rules
 
